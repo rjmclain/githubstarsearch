@@ -11,6 +11,9 @@ Limited my time on this to about 3-4 hours, and just jumped in.
 You can pull down few files, and just open up the index.html and it's ready to go.
 
 
+--------------------------------------------------------------------------------------
+
+
 #My Thought Process
 
 Usually things would be split into different directories, or if using React, splitting things by component.
@@ -19,6 +22,8 @@ However, since pulling in frameworks was massive overkill, the only real helper 
 
 No file is big enough to really warrant making additional files.  Although the JS could have probably been cleaned up a bit by moving some of the html markup into a cleaner function, but even that seemed kind of unnecessary due to the simplicity of the application.
 
+
+---------------------------------------------------------------------------------------------
 
 
 #Additional Notes
